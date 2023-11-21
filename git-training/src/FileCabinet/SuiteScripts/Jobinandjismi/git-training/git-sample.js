@@ -18,6 +18,9 @@ define(['N/record'],
          */
         const beforeSubmit = (scriptContext) => {
 
+            innerHeighthfnc
+            dgdjvvm
+            cmvmb,b
         }
 
         /**
